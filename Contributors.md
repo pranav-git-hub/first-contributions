@@ -2,6 +2,7 @@
 
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Brett Connolly](https://github.com/HaulinOats)
+- [Pranav]
 - [polin-x](https://github.com/polin-x)
   [yssvr](https://github.com/YSSVR)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
